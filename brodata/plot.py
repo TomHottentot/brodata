@@ -120,6 +120,7 @@ def cone_penetration_test(
 
 
 lithology_colors = {
+    "asfalt": (200 / 255, 200 / 255, 200 / 255), # checked at B31C1232
     "ballast": (200 / 255, 200 / 255, 200 / 255),  # checked at B38D4055
     "baggert": (144 / 255, 144 / 255, 144 / 255),  # checked at B60C5217 
     "baksteen": (200 / 255, 200 / 255, 200 / 255),  # checked at B31H2923 
